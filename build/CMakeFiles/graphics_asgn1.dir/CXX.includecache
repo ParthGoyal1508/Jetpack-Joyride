@@ -1,0 +1,282 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/ball.cpp
+ball.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/ball.h
+main.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/main.h
+
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/ball.h
+main.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/main.h
+
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/coin.cpp
+coin.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/coin.h
+main.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/main.h
+math.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/math.h
+
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/coin.h
+main.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/main.h
+
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/color.cpp
+main.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/main.h
+
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/dragon.cpp
+dragon.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/dragon.h
+main.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/main.h
+
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/dragon.h
+main.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/main.h
+
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/enemy.cpp
+enemy.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/enemy.h
+main.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/main.h
+
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/enemy.h
+main.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/main.h
+
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/enemy1.cpp
+enemy1.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/enemy1.h
+main.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/main.h
+
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/enemy1.h
+main.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/main.h
+
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/enemy3.cpp
+enemy3.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/enemy3.h
+math.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/math.h
+main.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/main.h
+
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/enemy3.h
+main.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/main.h
+
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/input.cpp
+iostream
+-
+cmath
+-
+fstream
+-
+vector
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+glm/gtx/transform.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+main.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/main.h
+
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/magnet.cpp
+magnet.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/magnet.h
+main.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/main.h
+math.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/math.h
+
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/magnet.h
+main.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/main.h
+
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/main.cpp
+string.h
+-
+stdlib.h
+-
+main.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/main.h
+timer.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/timer.h
+ball.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/ball.h
+coin.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/coin.h
+platform.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/platform.h
+player.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/player.h
+magnet.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/magnet.h
+enemy.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/enemy.h
+enemy1.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/enemy1.h
+shield.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/shield.h
+morecoins.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/morecoins.h
+enemy3.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/enemy3.h
+ring.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/ring.h
+dragon.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/dragon.h
+
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/main.h
+iostream
+-
+cmath
+-
+fstream
+-
+vector
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+glm/gtx/transform.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/morecoins.cpp
+morecoins.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/morecoins.h
+math.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/math.h
+main.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/main.h
+
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/morecoins.h
+main.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/main.h
+
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/nonedit.cpp
+iostream
+-
+cmath
+-
+fstream
+-
+vector
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+glm/gtx/transform.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+main.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/main.h
+
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/other_handlers.cpp
+iostream
+-
+cmath
+-
+fstream
+-
+vector
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+glm/gtx/transform.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+main.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/main.h
+
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/platform.cpp
+platform.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/platform.h
+main.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/main.h
+
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/platform.h
+main.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/main.h
+
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/player.cpp
+player.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/player.h
+main.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/main.h
+
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/player.h
+main.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/main.h
+
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/ring.cpp
+ring.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/ring.h
+main.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/main.h
+math.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/math.h
+
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/ring.h
+main.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/main.h
+
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/shield.cpp
+shield.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/shield.h
+math.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/math.h
+main.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/main.h
+
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/shield.h
+main.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/main.h
+
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/timer.cpp
+timer.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/timer.h
+GLFW/glfw3.h
+-
+
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/timer.h
+
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/wall.cpp
+wall.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/wall.h
+main.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/main.h
+
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/wall.h
+main.h
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/src/main.h
+

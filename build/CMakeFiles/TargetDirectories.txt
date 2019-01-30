@@ -1,0 +1,3 @@
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/build/CMakeFiles/rebuild_cache.dir
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/build/CMakeFiles/graphics_asgn1.dir
+/media/parth/New Volume/sem4/Graphics/Assignments/Assignment1/graphics-boilerplate/build/CMakeFiles/edit_cache.dir
